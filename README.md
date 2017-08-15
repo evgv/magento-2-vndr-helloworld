@@ -10,7 +10,7 @@
 ### How to install
 
 #### 1. Manual
-Just copy this files in ../app/code/Vndr/Helloworld
+Just copy this files in `../app/code/Vndr/Helloworld/`
 
 #### 2. Via composer
 
