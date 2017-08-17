@@ -1,4 +1,4 @@
-# Magento 2: Helloworld module
+# Magento 2: `Hello world` module
 
 ### Features
     - controller
