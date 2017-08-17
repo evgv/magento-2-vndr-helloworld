@@ -5,6 +5,8 @@
     - block
     - layout
     - template
+    - custom page
+    - custom link in footer
     - install with composer
 
 ### How to install
