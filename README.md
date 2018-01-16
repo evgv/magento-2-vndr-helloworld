@@ -14,8 +14,8 @@
 With composer:
 
 ```sh
-$ composer config repositories.magento-2-sysint-backend vcs https://github.com/evgv/vndr-helloworld
-$ composer require sysintnet/magento-2-sysint-backend:dev-master
+$ composer config repositories.magento-2-vndr-helloworld vcs https://github.com/evgv/vndr-helloworld
+$ composer require evgv/magento-2-vndr-helloworld:dev-master
 ```
 
 Manually:
